@@ -1,16 +1,21 @@
 - type: text
+  name: first_name
   label: First name
   required: true
 - type: text
+  name: last_name
   label: Last name
 - type: email
+  name: email
   label: Email
   required: true
 - type: radio
+  name: gender
+  label: Gender
   options:
     - label: Female
     - label: Male
     - label: Other
-  label: Gender
 - type: text
+  name: ip_address
   label: IP Address
