@@ -9,7 +9,7 @@
   name: email
   label: Email
   required: true
-- type: radio
+- type: checkbox
   name: gender
   label: Gender
   required: true
