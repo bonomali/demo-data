@@ -12,6 +12,7 @@
 - type: radio
   name: gender
   label: Gender
+  required: true
   options:
     - label: Female
     - label: Male
