@@ -1,8 +1,7 @@
 {
-  "id" : 4,
-  "first_name" : "Helen",
-  "last_name" : "Gomez",
-  "email" : "hgomez3@dmoz.org",
-  "gender" : "Female",
-  "ip_address" : "203.70.191.18"
+  "first_name": "Helen",
+  "last_name": "Gomez",
+  "email": "hgomez3@dmoz.org",
+  "gender": "Female",
+  "ip_address": "203.70.191.18"
 }
