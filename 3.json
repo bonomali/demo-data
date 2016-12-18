@@ -1,1 +1,7 @@
-undefined
+{
+  "first_name": "Paula",
+  "last_name": "Williams",
+  "email": "pwilliams2@amazon.de",
+  "gender": "Female",
+  "ip_address": "197.102.226.201"
+}
